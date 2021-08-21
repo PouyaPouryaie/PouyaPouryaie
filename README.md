@@ -2,10 +2,10 @@
 - 👀 I’m interested in Software Programming
 - 🌱 I’m currently learning microservices
 - 💞️ I’m looking to collaborate on project base on java and spring
+- 💬 Ask me about anything send message to <img align="center" src="https://img.icons8.com/color/48/000000/secured-letter--v1.png" alt="pouyapouryaie@gmail.com" height="20" width="20" />pouyapouryaie@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://linkedin.com/in/pouya-pouryaie" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="pouyapouryaie" height="40" width="40" /></a>
 </p>
 
