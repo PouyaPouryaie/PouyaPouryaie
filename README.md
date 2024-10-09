@@ -1,7 +1,7 @@
 ### Hi there, I'm [Pouya!](https://github.com/PouyaPouryaie) 👋
-- 👀 I’m interested in Software Programming
-- 🌱 I’m currently learning microservices
-- 💞️ I’m looking to collaborate on project base on java and spring
+- 👀 I'm a Full Stack Software Engineer with a proven track record in designing and developing scalable, high-availability microservices applications
+- 🌱 Available for Full-Time or Contract roles in Startups and Consulting
+- 💞️ I'm passionate to deep dive into the unknown and tackle with new challenges
 - 💬 Ask me about anything send message to <img align="center" src="https://img.icons8.com/color/48/000000/secured-letter--v1.png" alt="pouyapouryaie@gmail.com" height="20" width="20" />pouyapouryaie@gmail.com
 
 <h3 align="left">Connect with me:</h3>
